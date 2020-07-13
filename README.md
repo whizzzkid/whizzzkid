@@ -8,7 +8,7 @@ I am a Full-Stack Developer currently working with AppDirect as a TechLead, spec
 - 💬 Ask me about:
     - 🤖 AI/ML trends
     - 🌎 Planet-Scale Webapps
-    - ⌨️ Ergonomics, Ergo-Mech Keyboards, QMK
+    - ⌨️ Ergonomics, Ergo-Mech Keyboards, QMK. ([My ErgoDox Layout](https://configure.ergodox-ez.com/ergodox-ez/layouts/EWV4v/latest/0), [My QMK config](https://github.com/whizzzkid/qmk_firmware/blob/master/keyboards/ergodox_ez/keymaps/whizzzkid/keymap.c))
     - 🏡 Home Automation
     - 🇨🇦 Moving to Canada
     - 💰 Financial Wellbeing
