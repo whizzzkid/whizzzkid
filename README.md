@@ -21,5 +21,5 @@ I am a Full-Stack Developer currently working with AppDirect as a TechLead, spec
     
     
 <p align="center">
-  <img src="whizzzkid-logo.png">
+  <img src="https://raw.githubusercontent.com/whizzzkid/whizzzkid/master/whizzzkid-logo.png">
 </p>
