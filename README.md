@@ -1,6 +1,6 @@
 ### Namaste 🙏
 
-I am a Full-Stack Developer currently working with AppDirect as a TechLead, specifically the AppDevices team which was earlier called AppCarousel and Wmode even before that. I am helping the team conquer a monolith by segregating the architecture into multiple manageable microservices. My interests are inclined towards performant WebApps, Deep Learning, Computer Vision and Scene Understanding, you can find my [CV here](https://nishantarora.in/CV).
+I am a Software Engineer currently building the next generation infrastructure to optimize growth channels at [Gusto](https://gusto.com/). My interests are inclined towards high performance WebApps, Deep Learning, Computer Vision and Scene Understanding, you can find my [CV here](https://nishantarora.in/CV).
 
 - 🔭 I’m currently working on improving my [Home Infrastructure](https://github.com/whizzzkid/home-infrastructure)
 - 🌱 I’m currently learning to work with [Kafka](https://kafka.apache.org/), [Docker Compose](https://docs.docker.com/compose/) and Typescript for Node.
