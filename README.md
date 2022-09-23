@@ -1,6 +1,6 @@
 ### 🙏 Namaste
 
-The world identifies me as Computer Scientist, Software Engineer, Software Developer (Oh Canada!), Programmer, etc. I am a builder 🏗️ at heart, my interests are inclined towards high performance WebApps, Distributed Systems, Decenteralized Systems, Deep Learning, Computer Vision and Scene Understanding, you can find my [CV here](https://nishantarora.in/CV).
+The world identifies me as Computer Scientist, Software Engineer, Software Developer (Oh Canada!), Programmer, etc. I am a builder 🏗️ at ❤️, my interests are inclined towards 🚀 high performance WebApps, ✨ Distributed Systems, 🧑‍🤝‍🧑 Decenteralized Systems, 🤖 Deep Learning, 👀 Computer Vision and Scene Understanding, you can find my [CV here](https://nishantarora.in/CV).
 
 - 🔭 I’m currently working on improving my [Home Infrastructure](https://github.com/whizzzkid/home-infrastructure), it's humble but I bet it's more scalable than a lot of startups.
 - 🌱 I’m currently learning to work with [IPFS](https://www.wikiwand.com/en/InterPlanetary_File_System) and distributed design patterns.
