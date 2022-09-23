@@ -1,10 +1,15 @@
 ### 🙏 Namaste
 
-The world identifies me as Computer Scientist, Software Engineer, Software Developer (Oh Canada!), Programmer, etc. I am a builder 🏗️ at ❤️, my interests are inclined towards 🚀 high performance WebApps, ✨ Distributed Systems, 🧑‍🤝‍🧑 Decenteralized Systems, 🤖 Deep Learning, 👀 Computer Vision and Scene Understanding, you can find my [CV here](https://nishantarora.in/CV).
+The world identifies me as Computer Scientist, Software Engineer, Software Developer (Oh Canada!), Programmer, etc. I am a builder 🏗️ at ❤️
 
 - 🔭 I’m currently working on improving my [Home Infrastructure](https://github.com/whizzzkid/home-infrastructure), it's humble but I bet it's more scalable than a lot of startups.
 - 🌱 I’m currently learning to work with [IPFS](https://www.wikiwand.com/en/InterPlanetary_File_System) and distributed design patterns.
-- 🤔 Why "Whizzzkid"? I was freelancing since 2009, Fiverr was just starting out then, I made my first account there in 2011, whizkid and whizzkid were taken, hence [whizzzkid](https://www.fiverr.com/whizzzkid). It just stuck!
+- 🧠 My interests are inclined towards:
+    - 🚀 high performance Web Apps
+    - ✨ Distributed Systems
+    - 🧑‍🤝‍🧑 Decenteralized Systems
+    - 🤖 Deep Learning
+    - 👀 Computer Vision and Scene Understanding
 - 💬 Ask me about:
     - 🤖 Industry trends
     - 🌎 Planet-Scale Apps
@@ -15,8 +20,10 @@ The world identifies me as Computer Scientist, Software Engineer, Software Devel
     - 🔥 F.I.R.E
     - 👻 Life or Afterlife?
 - 📫 If you would like to reach me:
+    - [My CV](https://nishantarora.in/CV)
     - [email me](mailto:me@nishantarora.in)
     - [book my calendar](https://nishantarora.in/cal)
+- 🤔 Why "Whizzzkid"? I was freelancing since 2009, Fiverr was just starting out then, I made my first account there in 2011, whizkid and whizzkid were taken, hence [whizzzkid](https://www.fiverr.com/whizzzkid). It just stuck!
     
     
 <p align="center">
