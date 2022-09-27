@@ -1,9 +1,9 @@
 ### 🙏 Namaste
 
-The world identifies me as Computer Scientist, Software Engineer, Software Developer (Oh Canada!), Programmer, etc. I am a builder 🏗️ at ❤️
+The world identifies me as a Computer Scientist, a Software Engineer, or a Software Developer (Oh Canada!), etc. Trust me, I am just a builder 🏗️ at ❤️
 
-- 🔭 I’m currently working on improving my [Home Infrastructure](https://github.com/whizzzkid/home-infrastructure), it's humble but I bet it's more scalable than a lot of startups.
-- 🌱 I’m currently learning to work with [IPFS](https://www.wikiwand.com/en/InterPlanetary_File_System) and distributed design patterns.
+- 🔭 I’m currently working on improving my [Home Infrastructure](https://github.com/whizzzkid/home-infrastructure), it's modest but I bet it's more scalable than a lot of startups.
+- 🌱 I’m currently learning to work with [IPFS](https://www.wikiwand.com/en/InterPlanetary_File_System) and distributed system design patterns.
 - 🧠 My interests are inclined towards:
     - 🚀 high performance Web Apps
     - ✨ Distributed Systems
@@ -23,7 +23,7 @@ The world identifies me as Computer Scientist, Software Engineer, Software Devel
     - [My CV](https://nishantarora.in/CV)
     - [email me](mailto:me@nishantarora.in)
     - [book my calendar](https://nishantarora.in/cal)
-- 🤔 Why "Whizzzkid"? I was freelancing since 2009, Fiverr was just starting out then, I made my first account there in 2011, whizkid and whizzkid were taken, hence [whizzzkid](https://www.fiverr.com/whizzzkid). It just stuck!
+- 🤔 Why "Whizzzkid"? I have been freelancing since 2009, then Fiverr was just starting out then, I made my first account there in 2011, whizkid and whizzkid were taken, hence [whizzzkid](https://www.fiverr.com/whizzzkid). It just stuck!
     
     
 <p align="center">
