@@ -1,6 +1,6 @@
 ### 🙏 Namaste
 
-The world identifies me as a Computer Scientist, a Software Engineer, or a Software Developer (Oh Canada!), etc. Trust me, I am just a builder 🏗️ at ❤️
+The world identifies me as a Computer Scientist, a Software Engineer, or a Software Developer (Oh Canada!), etc. Trust me, I am just a builder 🏗️ who loves to build stuff.
 
 - 🔭 I’m currently working on improving my [Home Infrastructure](https://github.com/whizzzkid/home-infrastructure), it's modest but I bet it's more scalable than a lot of startups.
 - 🌱 I’m currently learning to work with [IPFS](https://www.wikiwand.com/en/InterPlanetary_File_System) and distributed system design patterns.
