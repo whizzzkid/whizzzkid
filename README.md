@@ -5,7 +5,7 @@ The world identifies me as a Computer Scientist, a Software Engineer, or a Softw
 - 🔭 I’m currently working on improving my [Home Infrastructure](https://github.com/whizzzkid/home-infrastructure), it's modest but I bet it's more scalable than a lot of startups.
 - 🌱 I’m currently learning to work with [IPFS](https://www.wikiwand.com/en/InterPlanetary_File_System) and decentralized systems design patterns.
 - 🧠 My interests are inclined towards:
-    - 🚀 high performance Web Apps
+    - 🚀 High Performance Web-Apps
     - ✨ Distributed Systems
     - 🧑‍🤝‍🧑 Decenteralized Systems
     - 🤖 Deep Learning
