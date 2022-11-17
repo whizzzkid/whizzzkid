@@ -24,8 +24,3 @@ The world identifies me as a Computer Scientist, a Software Engineer, or a Softw
     - 📧 [Email Me](mailto:me@nishantarora.in)
     - 📅 [Office Hours](https://nishantarora.in/cal)
 - 🤔 Why "Whizzzkid"? I have been freelancing since 2009, then Fiverr was just starting out then, I made my first account there in 2011, whizkid and whizzkid were taken, hence [whizzzkid](https://www.fiverr.com/whizzzkid). It just stuck!
-    
-    
-<p align="center">
-  <img src="https://raw.githubusercontent.com/whizzzkid/whizzzkid/master/whizzzkid-logo.png">
-</p>
