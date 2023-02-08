@@ -20,7 +20,6 @@ The world identifies me as a Computer Scientist, a Software Engineer, or a Softw
     - 🔥 F.I.R.E
     - 👻 Life or Afterlife?
 - 📫 Reach Me:
-    - 📄 [Read My CV](https://nishantarora.in/CV)
-    - 📧 [Email Me](mailto:me@nishantarora.in)
     - 📅 [Office Hours](https://nishantarora.in/cal)
 - 🤔 Why "Whizzzkid"? I have been freelancing since 2009, then Fiverr was just starting out then, I made my first account there in 2011, whizkid and whizzkid were taken, hence [whizzzkid](https://www.fiverr.com/whizzzkid). It just stuck!
+- 🔒 Why is my profile private? [This thread](https://github.com/orgs/community/discussions/4098) is the answer.
