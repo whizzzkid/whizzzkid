@@ -3,19 +3,19 @@
 The world identifies me as a Computer Scientist, a Software Engineer, or a Software Developer (Oh Canada!), etc. Trust me, I am just a builder 👷 who loves to build stuff 🏗️.
 
 - 🔭 I’m currently working on improving my [Home Infrastructure](https://github.com/whizzzkid/home-infrastructure), it's modest but I bet it's more scalable than a lot of startups.
-- 🌱 I’m currently learning to work with [IPFS](https://www.wikiwand.com/en/InterPlanetary_File_System) and decentralized systems design patterns.
+- 🌱 I’m currently working with [IPFS](https://www.wikiwand.com/en/InterPlanetary_File_System) and decentralized systems design patterns.
 - 🧠 My interests are inclined towards:
     - 🚀 High Performance Web-Apps
     - ✨ Distributed Systems
     - 🧑‍🤝‍🧑 Decenteralized Systems
-    - 🤖 Deep Learning
-    - 👀 Computer Vision and Scene Understanding
+    - 🤖 Machine Learning, Deep Learning
+    - 👀 Computer Vision, Segmentation and Scene Understanding
 - 💬 Ask me about:
     - 🤖 Industry trends
     - 🌎 Planet-Scale Apps
     - ⌨️ Ergonomics, Ergo-Mech Keyboards, QMK. ([My ErgoDox Layout](https://configure.ergodox-ez.com/ergodox-ez/layouts/EWV4v/latest/0), [My QMK config](https://github.com/whizzzkid/qmk_firmware/blob/master/keyboards/ergodox_ez/keymaps/whizzzkid/keymap.c))
     - 🏡 Home Automation
-    - 🇨🇦 Moving to Canada
+    - ~~🇨🇦 Moving to Canada~~ or not, we're full!
     - 💰 Financial Wellbeing
     - 🔥 F.I.R.E
     - 👻 Life or Afterlife?
